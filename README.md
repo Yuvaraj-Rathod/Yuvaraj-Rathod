@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj-rathod" /> </p>
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350">
 <p align="left"> <a href="https://twitter.com/_yuvaraj_rathod" target="blank"><img src="https://img.shields.io/twitter/follow/_yuvaraj_rathod?logo=twitter&style=for-the-badge" alt="_yuvaraj_rathod" /></a> </p>
+
 
 - 🔭 I’m currently working on **Placement Prep Application**
 
@@ -15,11 +16,13 @@
 - 📫 How to reach me **yuvrajrathod0007@gmail.com**
 
 - ⚡ Fun fact **I Hate Coding "JK".**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_yuvaraj_rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yuvaraj_rathod" height="30" width="40" /></a>
 <a href="https://instagram.com/_yuvi_rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yuvi_rathod" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
