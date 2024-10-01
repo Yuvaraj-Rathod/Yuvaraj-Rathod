@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yuvrajrathod0007@gmail.com**
 
-- ⚡ Fun fact **I Hate Coding "JK".**
+- ⚡ Fun fact **I Hate Coding "JK"**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
