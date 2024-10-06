@@ -56,5 +56,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin-right:10px;"/> 
   </a>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj-rathod&" alt="yuvaraj-rathod" /></p>
 </p>
 
