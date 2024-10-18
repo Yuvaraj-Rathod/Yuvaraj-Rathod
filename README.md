@@ -1,6 +1,6 @@
 [![masterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Yuvaraj-Rathod.io)
 <h1 align="center">Hi 👋, I'm Yuvaraj Rathod</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj-rathod" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350">
