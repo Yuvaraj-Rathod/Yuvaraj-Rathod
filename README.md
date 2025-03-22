@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/_yuvaraj_rathod" target="blank"><img src="https://img.shields.io/twitter/follow/_yuvaraj_rathod?logo=twitter&style=for-the-badge" alt="_yuvaraj_rathod" /></a> </p>
 
 
-- 🔭 I’m currently working on **RESTful API Integration with Android**
+- 🔭 I’m currently working on **Firebase Realtime dataBase**
 
-- 🌱 I’m currently learning **Android + RESTful integration**
+- 🌱 I’m currently learning **Firebase realtime db and firestore*
 
 - 💬 Ask me about **Kotlin and Jetpack Compose**
 
