@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Firebase Realtime dataBase**
 
-- 🌱 I’m currently learning **Firebase realtime db and firestore*
+- 🌱 I’m currently learning **Firebase firestore*
 
 - 💬 Ask me about **Kotlin and Jetpack Compose**
 
